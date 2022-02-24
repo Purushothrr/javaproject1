@@ -1,0 +1,3 @@
+sudo apt update
+sudo apt install open-jre-11-headless -y
+sudo apt install open-jdk-11-headless -y
